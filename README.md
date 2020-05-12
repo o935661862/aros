@@ -16,8 +16,12 @@ Custom user:
 username: Citrus
 password: @/./+/-/_only.
 
+# Login page:
+http://127.0.0.1:8000
+
 # Signup page:
 http://127.0.0.1:8000/user/signup
+
 
 
 
