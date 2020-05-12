@@ -1,0 +1,13 @@
+<form method="post" >
+	{% csrf_token %}
+		
+	<table>{{form}}</table>
+		
+	<button type="Submit" class="btn btn-outline-info">
+		Signup
+	</button>
+		
+</form>
+
+Have an account? <a class='ml-2' href="{% url 'user:login' %}">Login!</a>
+		
