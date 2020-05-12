@@ -17,9 +17,7 @@ username: Citrus
 password: @/./+/-/_only.
 
 # Signup page:
-/http://127.0.0.1:8000/user/signup
-
-# TODO
+http://127.0.0.1:8000/user/signup
 
 
 
