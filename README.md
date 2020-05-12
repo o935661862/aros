@@ -8,11 +8,6 @@ aros_env\Scripts\activate
 python manage.py runserver
 
 ```
-
-Superuser:
-username: AROS
-password: AROSAROS
-
 Admin user:
 username: aros06
 password: @/./+/-/_only.
@@ -20,6 +15,13 @@ password: @/./+/-/_only.
 Custom user:
 username: Citrus
 password: @/./+/-/_only.
+
+# Signup page:
+/http://127.0.0.1:8000/user/signup
+
+# TODO
+
+
 
 
 
